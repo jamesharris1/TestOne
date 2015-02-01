@@ -1,3 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <VAFacility VAFacility="CHEYENNE">
+ <Division Dn="Greeley">
+  <Rg Rg="(502) Mental Health">
+  </Rg>
+ </Division>
 </VAFacility>
